@@ -1,5 +1,7 @@
 # Frontend Mentor - Results summary component solution
 
+### Esse desafio foi realizado de forma a ser mais um estudo que a realização de projeto como fim em si mesmo. Pretendo deixar esse projeto como referência de estruturação e organização de código. Muito obrigado por conferir o código. 
+
 
 ## Table of contents
 
@@ -45,7 +47,7 @@
 
 ## What I learned
 
-Nesse desafio, utilizei variáveis CSS para gerenciar cores e estilos de fonte. Além disso, aprendi sobre responsividade, aplicação de estilos em diferentes elementos HTML, criação de layouts flexíveis com Flexbox e Grid, e implementação de efeitos de hover e focus. Também aprendi sobre fontes personalizadas, gradientes lineares, acessibilidade web e organização de código CSS. São habilidades que, sem dúvida alguma, agregaram muito conhecimento a minha jornada como programador.
+Nesse desafio, utilizei variáveis CSS para gerenciar cores e estilos de fonte. Além disso, aprendi sobre responsividade, aplicação de estilos em diferentes elementos HTML, criação de layouts flexíveis com Flexbox, Grid e implementação de efeitos de hover e focus. Também aprendi sobre fontes personalizadas, gradientes lineares, acessibilidade web e organização de código CSS. São habilidades que, sem dúvida alguma, agregaram muito valor a minha jornada como programador.
 
 ```html
 <title>Frontend Mentor | Results summary component</title>
